@@ -1,15 +1,15 @@
 {
-  "name": "parcel-project-template",
+  "name": "Simply-chocolate",
   "version": "2.0.0",
   "description": "",
   "homepage": "https://github.com/IuliaPopoaca/Simply-chocolate",
   "scripts": {
     "start": "parcel src/index.html",
-    "build": "parcel build src/index.html --public-url /Simply-chocolat/"
+    "build": "parcel build src/index.html --public-url /Simply-chocolate/"
   },
   "repository": {
     "type": "git",
-    "url": "git+Simply-chocolat"
+    "url": "git+https://github.com/IuliaPopoaca/Simply-chocolate"
   },
   "keywords": [],
   "author": "Iulia Popoaca <iuliapopoaca@yahoo.com>",
