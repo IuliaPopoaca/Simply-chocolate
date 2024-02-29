@@ -2,7 +2,7 @@
   "name": "Simply-chocolate",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://github.com/IuliaPopoaca/Simply-chocolate",
+  "homepage": "https://IuliaPopoaca.github.com/Simply-chocolate",
   "scripts": {
     "start": "parcel src/index.html",
     "build": "parcel build src/index.html --public-url /Simply-chocolate/"
@@ -15,7 +15,7 @@
   "author": "Iulia Popoaca <iuliapopoaca@yahoo.com>",
   "license": "ISC",
   "bugs": {
-    "url": "Simply-chocolat/issues"
+    "url": "https://github.com/IuliaPopoaca/Simply-chocolate/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0",
