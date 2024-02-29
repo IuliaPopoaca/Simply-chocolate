@@ -18,7 +18,8 @@
     "url": "Simply-chocolat/issues"
   },
   "dependencies": {
-    "modern-normalize": "^1.1.0"
+    "modern-normalize": "^1.1.0",
+    "swiper": "^11.0.7"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.6.0",
